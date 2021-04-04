@@ -43,7 +43,7 @@
     ]
   },
   "devDependencies": {
-    "craco-plugin-single-spa-application": "^1.0.4",
+    "craco-plugin-single-spa-application": "^1.0.6",
     "single-spa-react": "^4.1.0"
   }
 }
